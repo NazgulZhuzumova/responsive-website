@@ -1,0 +1,15 @@
+/* Begin mobile screen*/
+@media screen and (max-width: 639px){
+
+    nav ul li{
+        border-radius: 1.0em;
+    }
+
+    .tablet{
+        display: none;
+    } 
+    .desktop{
+        display: none;
+    }   
+}
+/* End mobile screen*/
